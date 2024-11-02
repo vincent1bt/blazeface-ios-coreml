@@ -1,10 +1,10 @@
 # Face Detection in iOS using the BlazeFace Architecture and CoreML
 
-In this repository you can find the code for the iOS app that we created in [this post](https://vincentblog.xyz/posts/blaze-face-in-i-os-using-core-ml).
+In this repository you can find the code for the iOS app that we created in [this post](https://vincentblog.link/posts/blaze-face-in-i-os-using-core-ml).
 
 We use the BlazeFace architecture to build the model since this architecture is suitable for low-end hardware and mobile devices.
 
-You can read more about the original model [here](https://vincentblog.xyz/posts/face-detection-for-low-end-hardware-using-the-blaze-face-architecture).
+You can read more about the original model [here](https://vincentblog.link/posts/face-detection-for-low-end-hardware-using-the-blaze-face-architecture).
 
 The model is already in the repository due to its small size. You can also find a version of this app that uses TensorFlow Lite to run the model [here](https://github.com/vincent1bt/blazeface-ios-tflite).
 
